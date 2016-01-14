@@ -1,0 +1,12 @@
+body {
+  background: #FFFAFA; }
+
+h2#header {
+  margin: 20px !important; }
+
+p.todo-lead {
+  margin-bottom: 5px !important; }
+
+ol#todos li {
+  margin-bottom: 5px !important;
+  border-bottom: solid 1px #D3D3D3; }
