@@ -1,11 +1,3 @@
-//var Car = Backbone.Model.extend({
-    //defaults: {
-        //year: 2011
-    //}
-//});
-//var car = new Car({model:'5008',make:'Peugeot'});
-//alert(car.get('model'));
-//console.log(car.get('year'));
  var FormView = Backbone.View.extend({
     initialize:  function() {
         this.render();
